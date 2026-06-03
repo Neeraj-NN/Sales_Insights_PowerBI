@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Sales Dashboard](Sales_Insights_Dashboard.png)
+![Sales_Insights_PowerBI](Sales_Dashboard.png)
 
 This project involves analyzing sales data using SQL queries and Power BI. The analysis includes customer information, transaction details, and revenue calculations across different markets and time periods.
 
